@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Inconsolata");
+body {
+  background: #000;
+}
+body #input span {
+  color: #fff;
+  font-size: 24px;
+  font-family: "Inconsolata", Andale Mono, Monaco, Monospace;
+}
+body #input input {
+  color: #fff;
+  background-color: #000;
+  outline: none;
+  border: none;
+  width: 80%;
+  font-size: 24px;
+  font-family: "Inconsolata", Andale Mono, Monaco, Monospace;
+}
+body #output .result {
+  color: #fff;
+  font-size: 24px;
+  font-family: "Inconsolata", Andale Mono, Monaco, Monospace;
+}
+/*# sourceMappingURL=index.css.map */

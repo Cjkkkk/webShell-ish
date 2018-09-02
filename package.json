@@ -1,0 +1,15 @@
+{
+  "name": "webshell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "stylus index.styl --out assets/css -w -m"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "stylus": "^0.54.5"
+  }
+}
